@@ -1,0 +1,16 @@
+print(b+10);
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
